@@ -55,6 +55,10 @@ $app->post('/download',function() use ($app){
 
 	if(preg_match('/\.(jpg|jpeg|png|gif)(?:[\?\#].*)?$/i', $file, $matches))
 	{
+		if(!file_exists(dirname(__FILE__).'/images'))
+		{
+			@mkdir(dirname(__FILE__).'/images');
+		}
 		$path = 'images/'.$file;
 		@file_put_contents($path,$data);
 		$response['success'] = true;
