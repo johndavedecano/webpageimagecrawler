@@ -7,7 +7,7 @@ Download image from a given valid URL
 
 INSTALLATION:
 
-1. From your server directory,git clone https://github.com/johndavedecano/webpageimagecrawler
+1. From your server directory,git clone https://github.com/johndavedecano/webpageimagecrawler.git
 2. Then composer install
 3. Browse the page.
 
