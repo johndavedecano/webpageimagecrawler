@@ -3,6 +3,8 @@ webpageimagecrawler
 
 Download image from a given valid URL
 
+![alt tag](https://raw.githubusercontent.com/johndavedecano/webpageimagecrawler/master/statics/thumbnail.png)
+
 INSTALLATION:
 
 1. From your server directory,git clone https://github.com/johndavedecano/webpageimagecrawler
@@ -17,5 +19,6 @@ SPECIAL THANKS TO:
 4. PHP - Rasmus Lerdorf
 5. My Neighbors
 4. and myself.
+
 
 
