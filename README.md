@@ -13,6 +13,9 @@ SPECIAL THANKS TO:
 
 1. Slim Framework
 2. PHP Unit
-3. and myself.
+3. JQuery
+4. PHP - Rasmus Lerdorf
+5. My Neighbors
+4. and myself.
 
 
